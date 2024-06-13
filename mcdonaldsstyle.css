@@ -52,21 +52,13 @@ body{
     text-decoration: underline;
 }
 .ordernow-button{
-    font-size: 1pc;
+    font-size: 16px;
     width: 128px;
     height: 40px;
     background-color: #ffbc0d;
     border-radius: 4px;
     padding: 8px 25px;
-    display: -webkit-inline-box;
-    display: -ms-inline-flexbox;
-    display: inline-flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
     border: none;
-    line-height: 9pt;
-    text-decoration: none;
     cursor: pointer;
 }
 .menu-bar{
@@ -132,18 +124,12 @@ body{
     padding-left: 25px;
 }
 .first-btn{
-    line-height: 1.25rem;
     background-color: #ffbc0d;
     border-radius: 4px;
     padding: .8125rem 1.5625rem;
     text-align: center;
-    display: inline-block;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
     border: none;
     color: #292929;
-    text-decoration: none;
     min-width: 11.125rem;
     min-height: 3rem;
     font-size: 15px;
